@@ -11,7 +11,7 @@ public class TestDemo {
   }
   @BeforeMethod
   public void beforeMethod() {
-	  System.out.println("this is before class");
+	  System.out.println("this is before class");// information in Before Method
   }
 
   @AfterMethod
